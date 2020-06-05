@@ -23,6 +23,9 @@ __Horiseon Social Solution Services, Inc.__
 
 <img src="./assets/images/screen-page.png" alt="screen page of what website looks like">
 
-[actule web page](https://savanpatel2003.github.io/horiseon/)  
-[repostory web page](https://github.com/savanpatel2003/horiseon) 
+**changes we made**
+
+
+[The URL of the deployed application.](https://savanpatel2003.github.io/horiseon/)  
+[he URL of the GitHub repository that contains my code.](https://github.com/savanpatel2003/horiseon) 
 
