@@ -1,27 +1,28 @@
-##Horiseon##
+**Horiseon**
 
 horiseon where we get you best result on Search Engine Optimization(SEO). Best known as serch box.
 where we can market your prdoduct on all social media.
 
-#Table of Contents#
-<ul>
-Search Engine 
-Optimization Online Reputation 
-Management Social Media Marketing
-</ul>
+**Table of Contents**
 
-#instalattion#
-use internt expoler 
-google chrome
+- Search Engine 
+- Optimization Online Reputation 
+- Management Social Media Marketing
 
 
-#usage#
+**instalattion**
+1. use internt expoler 
+2. google chrome
+
+
+**usage**
 upload to your site
 
-#credits#
-Horiseon Social Solution Services, Inc.
+**credits**
+__Horiseon Social Solution Services, Inc.__
 
 <img src="./assets/images/screen-page.png" alt="screen page of what website looks like">
 
-https://savanpatel2003.github.io/horiseon/   actule web page
-https://github.com/savanpatel2003/horiseon   repostory web page
+[actule web page](https://savanpatel2003.github.io/horiseon/)  
+[repostory web page](https://github.com/savanpatel2003/horiseon) 
+
